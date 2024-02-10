@@ -1,4 +1,1 @@
-{
-  "2476231519": true,
-  "234567": true
-}
+print("hello world")
